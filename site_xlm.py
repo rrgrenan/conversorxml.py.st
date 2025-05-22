@@ -7,7 +7,7 @@ import io
 st.set_page_config(page_title="Conversor NF-e", layout="centered")
 
 # Assinatura no topo
-st.markdown("<h1 style='text-align: left; line-height: 1.2;'>Renan<br>Gonçalves</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: right; line-height: 1.2;'>Renan<br>Gonçalves</h1>", unsafe_allow_html=True)
 
 
 st.title("📄 Conversor de Nota Fiscal Eletrônica (XML → Excel)")
